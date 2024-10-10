@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/admin/Documents/c-stoff/primes",
+            "binaryPath": "/home/admin/Documents/c-stoff/primes/a.out",
+            "binaryArgs": []
+        }
+    ]
+}
