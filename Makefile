@@ -1,3 +1,3 @@
 all:
-	gcc main.c
-	./a.out
+	gcc main.c -Ofast -lm
+	./a.out 100000
